@@ -1,5 +1,5 @@
-let sayHello = (name) => {
+let sayHello = (name) => { 
 	return name;
 }
-let message = sayHello("Tyler")
+let message = sayHello("World")
 console.log("Hello " + message + "!")
